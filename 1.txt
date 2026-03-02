@@ -166,5 +166,3 @@ windpetition.vercel.app
 Mar 02 15:46:04.95
 GET
 302
-windpetition.vercel.app
-/api/auth/callback
